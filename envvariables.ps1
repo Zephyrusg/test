@@ -1,0 +1,5 @@
+﻿$env:ARM_CLIENT_ID = 'bd72779c-5f69-4253-a42c-e2480b508db6'
+$env:ARM_CLIENT_SECRET = 'AutomationPa$$w0rd!'
+$env:ARM_TENANT_ID = 'f70469f7-ceb6-4c89-a9d0-6c2827f8797d'
+$env:ARM_SUBSCRIPTION_ID = '733a1ea1-2d00-45b8-a6f3-c05a5ef2d5c3' 
+
